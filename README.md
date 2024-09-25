@@ -1,5 +1,5 @@
 # fws-homework
-* Próbafeladat - fws - 2024.09.25.
+* Próbafeladat - Szabó Patrik - fws - 2024.09.25.
 
 # Installation Steps
 * php artisan key:generate
